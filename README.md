@@ -39,7 +39,19 @@ We propose RoboVIP, a multi-view inpainting-based video diffusion model with ide
 :star: **If you like RoboVIP, please help ⭐⭐star⭐⭐ this repo. Thanks!** :hugs:
 
 
-Under Review.
+
+---
+
+<p align="center">
+    <img src="__assets__/teaser.png" style="border-radius: 15px">
+</p>
+
+---
+
+
+
+
+Under Review. Code Will Release Soon.
 
 
 
