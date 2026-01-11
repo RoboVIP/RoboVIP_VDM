@@ -59,8 +59,15 @@ Under Review. Code Will Release Soon.
 <br>
 
 # Citation 📚 
-TBD
-
+If you make use of our work, please cite our paper.
+```bibtex
+@article{wang2026robovip,
+  title={RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation},
+  author={Wang, Boyang and Zhang, Haoran and Zhang, Shujie and Hao, Jinkun and Jia, Mingda and Lv, Qi and Mao, Yucheng and Lyu, Zhaoyang and Zeng, Jia and Xu, Xudong and others},
+  journal={arXiv preprint arXiv:2601.05241},
+  year={2026}
+}
+```
 
 
 
